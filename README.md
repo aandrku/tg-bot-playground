@@ -1,2 +1,2 @@
 # tg-bot-playground
-Playing with tb bots
+Playing with tg bots
